@@ -87,7 +87,7 @@ We managed to emerge first among the teams that presented their great ideas as w
             <div class="post_box">
             	<p><!-- <span class="cat">Posted in <a href="#">3D</a>, <a href="#">Interactive</a></span>-->| Date: 29th, April 2022 |<!-- <a href="#">143 comments</a>--></p> 
             	<h2>Looking to the future</h2>
-            	<!-- <img src="images/tooplate_image_04.png" class="image_wrapper" alt="Image 02" /> -->
+            	 <img src="images/istockphoto-511793819-170667a.jpg" class="image_wrapper" alt="Image 02" />
                 <p>In the future , we plan to empower apprenticed mechanics by offering them a certification program by linking up with Technical institutions. 
                     This will also go along way to improve the trust between mechanic and car owners. In addition we shall partner with authentic spareparts manufacturer to eliminate conterfeits. We shall aslo provide towing services.</p>
                 <!-- <a class="more" href="#">Continue Reading</a> -->

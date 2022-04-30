@@ -7,6 +7,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>eMechaniQ</title>
+<link rel="icon" type="image/x-icon" href="/images/logo.jpeg">
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 

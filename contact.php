@@ -13,6 +13,7 @@ http://www.tooplate.com/view/2026-hexa-bokeh
 
 <link rel="stylesheet" type="text/css" href="ddsmoothmenu.css" />
 <link rel="stylesheet" type="text/css" href="newheader.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="ddsmoothmenu.js">
 
@@ -70,10 +71,10 @@ ddsmoothmenu.init({
         
         <div id="tooplate_middle_sp">
             <div id="mid_title">
-                    Nunc ullamcorper auctor erat eu porta	
+                    Contact Us	
                 </div>
-                <p>Sed sollicitudin dapibus gravida. Vivamus ut lacus at felis varius facilisis. Sed semper felis at mi posuere sit amet pulvinar justo luctus. Aenean vel lacus nec tellus fringilla dapibus. Aliquam erat volutpat. Validate <a href="http://validator.w3.org/check?uri=referer" rel="nofollow"><strong>XHTML</strong></a> and <a href="http://jigsaw.w3.org/css-validator/check/referer" rel="nofollow"><strong>CSS</strong></a>.</p>
-                <div id="learn_more"><a href="#">Learn More</a></div>
+                <!-- <p>Sed sollicitudin dapibus gravida. Vivamus ut lacus at felis varius facilisis. Sed semper felis at mi posuere sit amet pulvinar justo luctus. Aenean vel lacus nec tellus fringilla dapibus. Aliquam erat volutpat. Validate <a href="http://validator.w3.org/check?uri=referer" rel="nofollow"><strong>XHTML</strong></a> and <a href="http://jigsaw.w3.org/css-validator/check/referer" rel="nofollow"><strong>CSS</strong></a>.</p> -->
+                <!-- <div id="learn_more"><a href="#">Learn More</a></div> -->
             <div class="cleaner"></div>
         </div> <!-- end of middle -->
         
@@ -108,25 +109,28 @@ ddsmoothmenu.init({
                 </div> 
             </div>
                 
-            <div class="col_w420 float_r">
-                <h4>Our Location</h4>
+             <div class="col_w420 float_r"> 
+               <!-- <h4>Our Location</h4>
                 <div id="map">
                     <a href="images/map_big.jpg" title="Location">
                         <img width="300" height="200" src="images/map_thumb.jpg" alt="Location Map" class="image_wrapper" />
                     </a>
-              </div>                
+              </div>          -->      
                 <div class="cleaner h30"></div>
                 
-                <h4>Our Address</h4>
-                <h6><strong>Company Name</strong></h6>
-                1440-2880   Fusce at tortor non quam, <br />
-                Ut hendrerit sem sed purus , 11550 <br />
-                Praesent sit amet<br /><br />
-				
-				Tel: 080-010-1170<br />
-				Fax: 090-010-2230<br />
-                Email: mechaniq@gmail.com<br/>
-            </div>
+                <h4>Our Handles</h4>
+                <h6><strong>eMechaniQ</strong></h6>
+                <!-- 1440-2880   Fusce at tortor non quam, <br /> -->
+                <!-- Ut hendrerit sem sed purus , 11550 <br /> -->
+                <!-- Praesent sit amet<br /><br /> -->
+				<ul style="list-style-type:none; padding:0px!important; display: flex;
+    flex-direction: row;">
+				<li><a class="social-icon" target="_blank" href="https://www.facebook.com/profile.php?id=100081046562201" style="text-decoration:none;"> <i class="fa fa-facebook fa-lg"></i></a></li>
+				<li><a class="social-icon"target="_blank" href="https://www.instagram.com/emechaniqapp/" style="text-decoration:none;"> <i class="fa fa-instagram fa-lg" aria-hidden="true"></i></a></li>
+        <li><a class="social-icon"target="_blank" href="https://twitter.com/eMechaniQapp?s=20&t=cPgIm2kSRnk64huObiuHgQ" style="text-decoration:none;"> <i class="fa fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+                <li><a class="social-icon" target="_blank" href="mailto:emechaniq001@gmail.com" style="text-decoration:none;"> <i class="fa fa-envelope fa-lg"></i></a></li>
+                    </ul>
+              </div>
             
             <div class="cleaner"></div>
         </div><div id="tooplate_main_bottom"></div>

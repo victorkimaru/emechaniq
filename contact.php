@@ -84,7 +84,9 @@ ddsmoothmenu.init({
             
                     <h4>Send a message</h4>
                     
-                    <form method="post" name="contact" action="#">
+                    <form id="my-for" method="post" name="contact" action="https://formspree.io/f/mnqwoong" >
+
+                       
 
 						<label for="author">Name:</label> <input type="text" maxlength="40" id="author" class="input_field" name="author" />
 						<div class="cleaner h10"></div>
@@ -95,12 +97,12 @@ ddsmoothmenu.init({
 						<label for="subject">Subject:</label> <input type="text" maxlength="40" id="subject" class="input_field" name="subject" />
 						<div class="cleaner h10"></div>
 	
-						<label for="text">Message:</label> <textarea id="text" name="text" rows="0" cols="0" class="required"></textarea>
+						<label for="text">Message:</label> <textarea id="text" name="message" rows="0" cols="0" class="required"></textarea>
 						<div class="cleaner h10"></div>
 	
-						<input type="submit" value="Send" id="submit" name="submit" class="submit_btn float_l" />
-						<input type="reset" value="Reset" id="reset" name="reset" class="submit_btn float_r" />
-                    
+						<button type="submit" id="submit" name="submit" class="submit_btn float_l">Send</button>
+						<button type="reset"  id="reset" name="reset" class="submit_btn float_r" >Reset</button>
+                        <p id="my-form-status"></p>
             		</form>
             
                 </div> 
@@ -134,9 +136,63 @@ ddsmoothmenu.init({
         <?php require ('footer.php');?>
             
         </div>
+        
     
     </div> <!-- end of tooplate_wrapper -->
 </div> <!-- end of tooplate_outer_wrapper -->
-
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+    var form = document.getElementById("my-form");
+    
+    async function handleSubmit(event) {
+      event.preventDefault();
+    //   var status = document.getElementById("my-form-status");
+      var data = new FormData(event.target);
+      fetch(event.target.action, {
+        method: form.method,
+        body: data,
+        headers: {
+            'Accept': 'application/json'
+        }
+      }).then(response => {
+        if (response.ok) {
+        //   status.innerHTML = "Thanks for your submission!";
+        form.reset()
+          Swal.fire({
+                icon: 'success',
+                title: 'Awesome',
+                text: 'Thanks for your submission!',
+                })
+          
+        } else {
+          response.json().then(data => {
+            if (Object.hasOwn(data, 'errors')) {
+              status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
+              Swal.fire({
+                icon: 'error',
+                title: 'Oops...',
+                text: 'Something went wrong!',
+                })
+            } else {
+              status.innerHTML = "Oops! There was a problem submitting your form"
+              Swal.fire({
+                icon: 'error',
+                title: 'Oops...',
+                text: 'There was a problem submitting your form!',
+                })
+            }
+          })
+        }
+      }).catch(error => {
+        status.innerHTML = "Oops! There was a problem submitting your form"
+        Swal.fire({
+                icon: 'error',
+                title: 'Oops...',
+                text: 'There was a problem submitting your form!',
+                })
+      });
+    }
+    form.addEventListener("submit", handleSubmit)
+</script>
 </body>
 </html>

@@ -62,6 +62,7 @@
     transition: all 0.8s;
     width: fit-content;
     height: fit-content;
+    color: aliceblue !important;
   }
   .margin-bottom-10{
     margin-bottom: 10px;

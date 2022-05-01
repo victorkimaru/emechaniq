@@ -60,8 +60,8 @@ ddsmoothmenu.init({
         
         <div id="tooplate_middle_sp">
             <div id="mid_title">
-            	Blog<br/>
-                <h2 style="color:#2B2B2B; font-size:20px;">Here's what we've been upto</h2> 
+                Our Journey<br/>
+            	<!-- <h2 style="color:#2B2B2B; font-size:20px;">Here's what we've been upto</h2>  -->
             </div>
             <!-- <p>Aenean purus eros, gravida et pellentesque ac, egestas in enim. Curabitur sagittis eleifend mi in ultrices. Suspendisse potenti. Nam sit amet dui mauris. Donec ante leo, placerat in gravida a, consequat id dolor.</p> -->
             <!-- <div id="learn_more"><a href="#">Learn More</a></div> -->

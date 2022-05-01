@@ -56,7 +56,7 @@ ddsmoothmenu.init({
 
         <div id="tooplate_middle_sp">
             <div id="mid_title">
-                Nulla eu massa purus ac vehicula dolor
+            About Us
             </div>
 
 
@@ -66,23 +66,45 @@ ddsmoothmenu.init({
         <div id="tooplate_main">
 
             <div class="col_w900 col_w900_last">
-            <div class="col_w580 float_l">
+            <!-- <div class="col_w580 float_l"> -->
 
-				<h2>About Us</h2>
+				
 				
 				<div class="h30"></div>
-				<div class="image_wrapper image_fl"><img src="images/tooplate_image_03.png" alt="Image 03" /></div>
-				<h5>Phasellus sodales molestie est id adipiscing</h5>
-				<p>Validate <a href="http://validator.w3.org/check?uri=referer" rel="nofollow"><strong>XHTML</strong></a> and <a href="http://jigsaw.w3.org/css-validator/check/referer" rel="nofollow"><strong>CSS</strong></a>. Praesent volutpat dolor at nulla egestas in vestibulum mauris lacinia. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut sed accumsan nisl. Donec malesuada augue ac nisl sagittis quis cursus <a href="#">dolor scelerisque</a>. Aliquam ac massa ut nibh pulvinar aliquam vel id metus. Nulla id ante a diam volutpat commodo.</p>
-
+				<div class="image_wrapper image_fl"><img src="images/mech7.jpeg" height="300" width="500" /></div>
+                
+                <p> eMechaniQ is an all inclusive app that aims to provide the ultimate
+                    <br/>
+                    solutions to your mechanical problems.
+                    We noticed that car breakdowns can be  frustrating and time wasting. More often than not drivers 
+                    have complained about bogus spare parts, unrealistic prices and long response time of mechanics.
+                
+                    We also noticed that there are many skilled mechanics that have learned by apprenticeship that lack certications.
+                    With us the customer is sure to get a professional mechanic onsite as per need 24/7 and access to genuine 
+                    spare parts via our in app purchases. We also pride our self in providing apprenticed mechanics with certification
+                    programs to rebuild trust between mechanics and drivers.
+                    This ensures quality services  and accountability on the mechanic's end for the customer and widens the
+                    market pool for the mechanic</p>
+                    <br/>
+                    <div class="image_wrapper image_fl"><img src="images/mech6.jpeg" height="200" width="300" /></div>
+                    
+                    <div class="image_wrapper image_fl"><img src="images/mech5.jpeg" height="200" width="300" /></div>
+                    
             </div>
             <div class="col_w280 float_r">
 
-                <h2>Testimonial</h2>
+                <!-- <h2>Testimonial</h2> -->
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+               <h4>  
+                
+                            
+
                 <blockquote>
-
-
-                <cite><a href="#">Vinlati</a> - <span>Web Designer</span></cite>
                 </blockquote>
 
             </div>

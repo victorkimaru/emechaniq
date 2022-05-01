@@ -65,12 +65,20 @@ ddsmoothmenu.init({
         <div id="tooplate_middle">
             <!-- <div id="mid_slider">
             </div> -->
+            <div class="col_allw280 fp_service_box">
+
+            <img  src="images/logo.jpg" height="75%" width="75%"/>
+
+
+            </div>
 
             <div id="mid_right">
+                
                 <div id="mid_title">
-                Welcome To MechaniQ 
+                Welcome To eMechaniQ 
                 </div>
-                <p>Mechaniq welcomes you to a new world of quick solution to your mechanical problems.We are dovoted to providing quality spareparts to ensure long life for your vehicle</p>
+
+                <p >eMechaniq welcomes you to a new world of quick solutions to your mechanical problems by linking you directly to trustworthy Mechanics.We are dovoted to providing quality spareparts to ensure long life for your vehicle</p>
             </div>
 
             <div class="cleaner"></div>
@@ -80,13 +88,18 @@ ddsmoothmenu.init({
 
             <div class="col_w900">
             <div class="col_allw280 fp_service_box">
-                <h3>MechaniQ Services</h3>
-                
-                <p> <h6>Mechaniq provides a quick and instant linkage between mechanics and drivers/car owners. Mechaniq works closely! with genuine sparepart Manufacturers to facilate acquisition of original and authentic spareparts to your car. Also look to empower mechanics around the globe</h6></p>
-                <a class="more" href="#">Detail</a>
+                <h3>eMechaniQ Services</h3>
+
+                <p> We are an effective service providers offering in app purchases of authentic
+                 spareparts. Maintenance Scheduling and timely link to mechanics who service your vehicles. We also empower
+                  Mechanics through certification programs around the Globe.</p>
+                <!-- <a class="more" href="#">Detail</a> -->
             </div>
 
             <div class="col_allw280 fp_service_box">
+
+            <img  src="images/mech1.jpg" id="mech1" class="mech1"  height="270" width="600"/>
+
 
             </div>
 
@@ -100,12 +113,19 @@ ddsmoothmenu.init({
         <div class="col_w900 col_w900_last">
             <div class="col_w580 float_l">
 
-				<h2>Welcome To MechaniQ </h2>
+				<h2>Why Us </h2>
                 
                     <h6>100% Certified. Reliable. Affordable</h6>
-                <img src="images/tooplate_image_01.png" alt="image" class="image_wrapper image_fl" />
-                <p><em>Vestibulum mauris purus, tincidunt auctor pretium at, blandit vel nisi. Donec accumsan semper lobortis.</em></p>
-                <p>Hexa Bokeh is one of the <a rel="nofollow" href="http://www.tooplate.com/free-templates">free templates</a> by tooplate. You may edit and apply this template for any purpose.  Credits go to <a rel="nofollow" href="http://www.photovaco.com">Free Photos</a> for photos and <a rel="nofollow" href="http://www.thewebdesignblog.co.uk">thewebdesignblog.co.uk</a> for icons. Quisque in diam a justo condimentum molestie.</p>
+                
+                <p > With us you are assured a long life -span for your vehicles since we provide you with quality service through our reliable mechanics and access to original spareparts.
+                        Choose eMechaniQ today and enjoy access to quality service, accountability and discounts with time.</p>
+                        
+                
+            </div>
+            <div class="col_allw280 fp_service_box">
+
+            <img  src="images/mech4.jpg" id="mech4" class="mech4"  height="250" width="320"/>
+
 
             </div>
             <div class="col_w280 float_r">

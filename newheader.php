@@ -12,9 +12,9 @@
                         <!-- <a href="portfolio.php" >Portfolio</a> -->
                     <!-- </li> -->
                     <li>
-                        <a href="blog.php" class="<?php if(strpos($_SERVER['REQUEST_URI'], "blog.php") !== false) { echo 'active'; } ?>">Blog</a>
+                        <a href="blog.php" class="<?php if(strpos($_SERVER['REQUEST_URI'], "blog.php") !== false) { echo 'active'; } ?>">Our Journey</a>
                     </li>
                     <li>
-                        <a href="contact.php" class="<?php if(strpos($_SERVER['REQUEST_URI'], "contact.php") !== false) { echo 'active'; } ?>">Contact</a>
+                        <a href="contact.php" class="<?php if(strpos($_SERVER['REQUEST_URI'], "contact.php") !== false) { echo 'active'; } ?>">Contact Us</a>
                     </li>
                 </ul>

@@ -77,12 +77,12 @@ ddsmoothmenu.init({
                     <br/>
                     solutions to your mechanical problems.
                     We noticed that car breakdowns can be  frustrating and time wasting. More often than not drivers 
-                    have complained about bogus spare parts, unrealistic prices and long response time of mechanics.
+                    have complained about bogus spare parts, unrealistic prices and long response time of mechanics.<br/>
                 
                     We also noticed that there are many skilled mechanics that have learned by apprenticeship that lack certications.
                     With us the customer is sure to get a professional mechanic onsite as per need 24/7 and access to genuine 
                     spare parts via our in app purchases. We also pride our self in providing apprenticed mechanics with certification
-                    programs to rebuild trust between mechanics and drivers.
+                    programs to rebuild trust between mechanics and drivers.<br/><br/><br/>
                     This ensures quality services  and accountability on the mechanic's end for the customer and widens the
                     market pool for the mechanic</p>
                     <br/>

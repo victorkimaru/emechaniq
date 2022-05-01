@@ -107,8 +107,8 @@ ddsmoothmenu.init({
 						<label for="text">Message:</label> <textarea id="text" name="message" rows="0" cols="0" class="required"></textarea>
 						<div class="cleaner h10"></div>
 	
-						<button type="submit" id="submit" name="submit" class="submit_btn float_l">Send</button>
-						<button type="reset"  id="reset" name="reset" class="submit_btn float_r" >Reset</button>
+						<button type="submit" id="submit" name="submit" class="submit_btn float_l btn-main">Send</button>
+						<button type="reset"  id="reset" name="reset" class="submit_btn float_r btn-main" >Reset</button>
                         <p id="my-form-status"></p>
             		</form>
             

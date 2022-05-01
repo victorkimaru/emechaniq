@@ -117,8 +117,10 @@ ddsmoothmenu.init({
                 
                     <h6>100% Certified. Reliable. Affordable</h6>
                 
-                <p > With us you are assured a long life -span for your vehicles since we provide you with quality service through our reliable mechanics and access to original spareparts.
+                <p> With us you are assured a long life -span for your vehicles since we provide you with quality service through our reliable mechanics and access to original spareparts.
                         Choose eMechaniQ today and enjoy access to quality service, accountability and discounts with time.</p>
+                        <br>
+                 <a href="contact.php" class="btn-main">Contact Us</a>       
                         
                 
             </div>

@@ -76,7 +76,7 @@ ddsmoothmenu.init({
             	<h2>Hult Prize</h2>
                 <img src="images/20220428_225805.jpg" class="image_wrapper" alt="Image" style="width:50%; height:50%;" />
                  <p>The journey of a thousand miles begins with a single step.
-When we first heard of Hult prize competition and their goal to look for an innovative idea that will lead to the creation of atleast two thousand jobs by 2024. We were theilled to be part of the amazing idea. Excited because  we wanted to be job creators in 'todays' world where the demand for jobs outweighs the number of job opprtunities available.
+When we first heard of Hult prize competition and their goal to look for an innovative idea that will lead to the creation of atleast two thousand jobs by 2024. We were thrilled to be part of the amazing idea. Excited because  we wanted to be job creators in 'todays' world where the demand for jobs outweighs the number of job opprtunities available.
 As friends and young entrepreneurs we began looking for a niche we could exploit.<br/> That is when we noticed the loss of jobs and economic recession brought by  the corona virus pandemic.<br/>It was one beautiful afternoon when my friends and I were on a roadtrip to Mombasa from Nairobi. Our car broke down and  we suffered frustration as we didn't know of any mechanic or garage nearby.<br/>This was the time eMechaniq was conceived and quickly we registered our team for the Hult prize competion. After a period of preparation and packaging of the idea it was time to pitch before the judges for the oncampus competition. We were able to make them see the  solution we had for the problems  facing thousands and millions of  drivers and car owners in and beyond our country <br/>
 We managed to emerge first among the teams that presented their great ideas as well during the oncampus competition.<br/>With an intense  reseach in the problem we realised that not only did the drivers need a solution to their mechanical problems but also needed a timely solution.  In Addition there is also need to assure the driver of an ever available help and solution to their upredictable mechanical problems especially in unfamiliar places.<br/></p>
                 <!-- <a class="more" href="#">Continue Reading</a> -->
@@ -88,8 +88,8 @@ We managed to emerge first among the teams that presented their great ideas as w
             	<p><!-- <span class="cat">Posted in <a href="#">3D</a>, <a href="#">Interactive</a></span>-->| Date: 29th, April 2022 |<!-- <a href="#">143 comments</a>--></p> 
             	<h2>Looking to the future</h2>
             	 <img src="images/istockphoto-511793819-170667a.jpg" class="image_wrapper" alt="Image 02" />
-                <p>In the future , we plan to empower apprenticed mechanics by offering them a certification program by linking up with Technical institutions. 
-                    This will also go along way to improve the trust between mechanic and car owners. In addition we shall partner with authentic spareparts manufacturer to eliminate conterfeits. We shall aslo provide towing services.</p>
+                <p>We plan to empower apprenticed mechanics by offering them a certification program by linking up with Technical institutions. 
+                    This will also go a long way to improve the trust between mechanic and car owners. In addition we shall partner with authentic spareparts manufacturer to eliminate conterfeits. We shall also provide towing services for stalled vehicles that need to be taken to the garage.</p>
                 <!-- <a class="more" href="#">Continue Reading</a> -->
                 <!-- <div class="cleaner"></div> -->
 			<!-- </div> -->

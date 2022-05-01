@@ -74,10 +74,10 @@ ddsmoothmenu.init({
 				<div class="image_wrapper image_fl"><img src="images/mech7.jpeg" height="300" width="500" /></div>
                 
                 <p> eMechaniQ is an all inclusive app that aims to provide the ultimate
-                    <br/>
-                    solutions to your mechanical problems.
+                    
+                    solutions to your mechanical problems.<br/><br/>
                     We noticed that car breakdowns can be  frustrating and time wasting. More often than not drivers 
-                    have complained about bogus spare parts, unrealistic prices and long response time of mechanics.<br/>
+                    have complained about bogus spare parts, unrealistic prices and long response time of mechanics.<br/><br/>
                 
                     We also noticed that there are many skilled mechanics that have learned by apprenticeship that lack certications.
                     With us the customer is sure to get a professional mechanic onsite as per need 24/7 and access to genuine 
